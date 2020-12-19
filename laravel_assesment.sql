@@ -39,7 +39,7 @@ CREATE TABLE `failed_jobs` (
 
 LOCK TABLES `failed_jobs` WRITE;
 /*!40000 ALTER TABLE `failed_jobs` DISABLE KEYS */;
-INSERT INTO `failed_jobs` VALUES (1,'fasfds','fdsf','','dfds','2020-12-19 18:43:17');
+INSERT INTO `failed_jobs` VALUES (1,'fasfds','fdsfwdefds','','dfds','2020-12-19 18:43:17');
 /*!40000 ALTER TABLE `failed_jobs` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -291,4 +291,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-12-20  0:17:35
+-- Dump completed on 2020-12-20  0:26:36
